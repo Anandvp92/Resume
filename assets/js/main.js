@@ -251,3 +251,28 @@
   new PureCounter();
 
 })()
+
+
+function emailing() {
+  let params = {
+    name: document.getElementById('name').value,
+    email: document.getElementById('email').value,
+    message: document.getElementById('message').value,
+  };
+
+  const service_id = "service_gcrqzho";
+  const template_id = "template_2epc3ab";
+
+  emailjs.send(service_id, template_id, params)
+    .then(res => {
+      document.getElementById('name').value = "";
+      document.getElementById('email').value = "";
+      document.getElementById('message').value = "";
+      console.log(res);
+      alert("Message sent successfully");
+    })
+    .catch(error => {
+      console.log(error);
+      alert("Error sending message");
+    });
+}
