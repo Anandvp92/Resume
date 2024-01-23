@@ -878,6 +878,10 @@ section .container {
   font-weight: 600;
 }
 
+
+
+
+
 .portfolio .portfolio-wrap .portfolio-info p {
   color: #ffffff;
   font-size: 14px;
@@ -1187,3 +1191,16 @@ section .container {
 }
 
 
+.resumejobtext{
+  color: #67df9f;
+  text-align: left;
+  font-weight: 700;
+  margin-top: auto;
+}
+
+.listsdata{
+  margin-top: 5px;
+  text-align: left;
+  margin-bottom: 5px;
+  color: #c7c2c2;
+}
