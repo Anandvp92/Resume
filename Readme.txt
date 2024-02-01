@@ -1,6 +1,6 @@
 # My Resume
 
-Welcome to the repository hosting my resume using GitHub Pages. This resume is built with Bootstrap for styling and layout, incorporating JavaScript for dynamic elements, and using HTML and CSS for content and presentation.
+Welcome to the repository hosting my resume using GitHub Pages. This repository serves as a platform to showcase my professional experience, skills, and achievements.
 
 ## Access My Resume
 
@@ -10,7 +10,7 @@ You can view my resume by navigating to the following GitHub Pages link:
 
 ## About This Repository
 
-This repository contains the Bootstrap, JavaScript, HTML, and CSS files necessary to render my resume using GitHub Pages. Feel free to explore the code and design.
+This repository contains the HTML, CSS, and any other necessary files to render my resume using GitHub Pages. Feel free to explore the code and design.
 
 ## How to Use
 
@@ -19,12 +19,6 @@ To view my resume:
 1. Simply click on the provided link: [My Resume](https://anandvp92.github.io/resume/)
 
 2. Explore the different sections to learn more about my professional background, skills, and achievements.
-
-## Technologies Used
-
-- **Bootstrap:** Utilized for styling and layout.
-- **JavaScript:** Integrated for dynamic and interactive elements.
-- **HTML and CSS:** Used for content structure and styling.
 
 ## Updating My Resume
 
