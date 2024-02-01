@@ -32,7 +32,7 @@ If you have any suggestions or feedback regarding my resume, feel free to open a
 
 ## Contact Information
 
-If you have any questions or would like to get in touch with me, feel free to contact me via [email](mailto:your.email@example.com) or through my [LinkedIn profile](https://www.linkedin.com/in/your-username/).
+If you have any questions or would like to get in touch with me, feel free to contact me via [email](mailto:mailanandvp@gmail.com) or through my [LinkedIn profile](https://www.linkedin.com/in/anand-v-p/).
 
 ## License
 
